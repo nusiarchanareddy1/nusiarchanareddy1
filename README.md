@@ -9,7 +9,6 @@
 * Sharing my projects, coding practice, and learning journey through this GitHub profile
 
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/archana-reddy-nusi-67a166329)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narchanareddy1@gmail.com) 
 
